@@ -1,0 +1,13 @@
+@import "{{ site.theme }}";
+
+
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+.title {
+  font-family: 'UnifrakturMaguntia', cursive;
+  color: #8B0000; /* Dark blood red */
+  font-size: 48px; /* Adjust as needed */
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
