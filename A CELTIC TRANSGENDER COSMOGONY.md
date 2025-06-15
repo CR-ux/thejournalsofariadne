@@ -413,7 +413,7 @@ NEED TO WEAVE BEOWOLF SYMBOLOGY THROUGH NOW
 “Hey Yew, 
 Wishing to Wellness of Writing me
 Who is B-
-Who is Barnabie
+Who is 
 Who is knot-gone but all ways in some way with in Me- 
 
 Thank you for the patience and understanding in my silence. I am back from hospital and almost done with my story which has taken form of a book with 144,000 words
@@ -437,18 +437,4 @@ Be- (Oak, A)
 -Seeing Yew 
 ”
 
-
-
-
-Important cards:
-- The Devil
-- The Star
-- Justice
-
-
-
-
-Important 'games'
-- Scrabble
-- [[Chess And all the Stitches of the Cloth(Es)]]
 - 
